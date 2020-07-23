@@ -1,7 +1,7 @@
 # LOZ9
 Making a Scene
 
-In this lesson, you will be using a pydoc to understand how to make a scene object.  Also Base64 is discussed.  
+In this lesson, you will be using a pydoc to understand how to make a scene object.  Also Base64 is discussed.  Use pygame_functions6.py and your game file from last time.  Watch the video and make changes to your game file.  If you get stuck, the completed game file is game1.6.py.
 
 Video - YouTube -  
 Video - Edpuzzle -  
@@ -13,3 +13,6 @@ Extensions -
 4. Place several enemies of different kinds in your scene.  You can write elif statements inside the scene code to do this.  Use characters that are not base64.
 5. Test your program and make sure that your scene doesn't introduce any issues with sprite movement.
 6. Make sure that your sprites and link do not pass through wall tiles.
+
+Challenge -  
+1. Make another scene using a sprite sheet that is not brown.  The scene layout should not be identical to your first.
