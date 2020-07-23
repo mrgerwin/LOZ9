@@ -3,8 +3,8 @@ Making a Scene
 
 In this lesson, you will be using a pydoc to understand how to make a scene object.  Also Base64 is discussed.  Use pygame_functions7.py and your game file from last time.  Watch the video and make changes to your game file.  If you get stuck, the completed game file is game1.7.py.
 
-Video - YouTube -  https://youtu.be/WCf4ShPWM_E
-Video - Edpuzzle -  
+Video - YouTube -  https://youtu.be/WCf4ShPWM_E  
+Video - Edpuzzle -  https://edpuzzle.com/media/5f19e9026681ad3eec99e0fa  
 
 Extensions -  
 1. Make atleast one more scene for use in our game.
